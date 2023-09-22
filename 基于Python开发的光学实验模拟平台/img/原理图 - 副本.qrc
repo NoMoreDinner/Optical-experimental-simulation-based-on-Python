@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="原理图.jfif">
+    <file>background.jpg</file>
+    <file>40.jpg</file>
+    <file>100.jpg</file>
+    <file>原理图.jfif</file>
+  </qresource>
+  <qresource prefix="标线">
+    <file>标线.jpg</file>
+  </qresource>
+  <qresource prefix="主尺">
+    <file>主尺.jpg</file>
+  </qresource>
+</RCC>

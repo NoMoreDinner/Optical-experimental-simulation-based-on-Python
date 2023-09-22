@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="data/gif">
+    <file>迈克尔逊演示图.gif</file>
+    <file>杨氏干涉演示图.gif</file>
+  </qresource>
+</RCC>
